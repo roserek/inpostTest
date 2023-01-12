@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="RUN_APP" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <module name="test" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="pl.inpost.test.TestApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
